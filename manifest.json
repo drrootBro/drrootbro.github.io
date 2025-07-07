@@ -4,7 +4,7 @@
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4e3b2f",
+ <!-- "theme_color": "#4e3b2f",-->
   "description": "基于中医经典方剂的症状辨证工具，支持交互式诊断与查询",
   "icons": [
     {
